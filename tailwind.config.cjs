@@ -19,11 +19,10 @@ module.exports = {
       'gray-400':'#c7c78a',
       'gray-200':'#c4c4cc',
       'gray-100':'#e1e1e6',
-
       'cyan-500':'#81d8f7',
       'cyan-300':'#9BE1FB',
-
     },
+
     extend: {
       fontFamily:{
         sans:'Inter, sans-serif'
